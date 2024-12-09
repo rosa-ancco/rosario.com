@@ -1,0 +1,58 @@
+.hero{
+  background-color: #dda9af8f
+}
+.hero-section {
+    background: url('images/hero-bg.jpg') no-repeat center center/cover;
+    color: #15014d;
+}
+
+.hero-section h1 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+}
+
+/* Features Section */
+.features i {
+    color: #28a745;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+.footer {
+    background-color: #ccbfeb;
+}
+
+.footer a {
+    margin: 0 10px;
+}
+
+
+/* Fondo verde para la sección features */
+.features {
+    background-color: #010216; /* Verde Bootstrap */
+    color: #d7d9e4; /* Texto blanco */
+}
+
+
+.square-box {
+    background-color: hsl(249, 44%, 54%); /* Fondo blanco */
+    border: 2px solid #ddd; /* Borde gris claro */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Centrar el contenido */
+    box-shadow: 0 2px 10px rgba(206, 205, 219, 0.1); /* Sombra sutil */
+}
+
+.square-box i {
+    color: #2ecc71; /* Color verde para el icono */
+    margin-bottom: 10px; /* Espaciado debajo del icono */
+}
+
+.square-box p {
+    font-size: 1rem; /* Tamaño de texto */
+    color: #333; /* Color del texto */
+}
